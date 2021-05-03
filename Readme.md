@@ -25,8 +25,8 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/oldmanrev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oldmanrev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="brandonworobi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="brandonworobi" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=synthwave&locale=en" alt="brandonworobi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=synthwave&locale=en" alt="brandonworobi" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonworobi&theme=highcontrast" alt="brandonworobi" /></p>

@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com)
 
-- 👨‍💻 All of my projects are available at [S://Worobi.com](HTTPS://Worobi.com)
-
 - 💬 Ask me about **HTML, CSS, JavaScript & Web Hosting**
 
 - 📫 How to reach me **Brandon@worobi.com**

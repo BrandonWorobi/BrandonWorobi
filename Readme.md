@@ -10,7 +10,7 @@
 
 - I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com) (Group Project among Peers within Lambda)
 <br>
-- Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="Photos\Part time Dev's Logo.png" height="40">
+<text align=left>Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="Photos\Part time Dev's Logo.png" height="40"></text>
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Web Hosting**
 
@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/oldmanrev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oldmanrev" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="brandonworobi" /><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="brandonworobi"><br><br><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=synthwave&locale=en" alt="brandonworobi" /><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=synthwave&border=DD11DDlocale=en" alt="brandonworobi" /><br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonworobi&theme=highcontrast" alt="brandonworobi" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=brandonworobi&theme=synthwave&fire=DD5D3D&ring=6B4FDD&border=DD11DD&stroke=DD11DD&currStreakNum=DD11DD&sideNums=DD5D3D&currStreakLabel=DD5D3D&dates=DD11DD)](https://git.io/streak-stats)" /></p>

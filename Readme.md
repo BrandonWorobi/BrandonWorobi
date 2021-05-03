@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="brandonworobi" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=synthwave&locale=en" alt="brandonworobi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=synthwave&locale=en" alt="brandonworobi" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonworobi&theme=highcontrast" alt="brandonworobi" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonworobi&theme=highcontrast" alt="brandonworobi" /></p>

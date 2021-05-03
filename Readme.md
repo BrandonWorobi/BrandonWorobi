@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/oldmanrev" target="blank"><img src="https://img.shields.io/twitter/follow/oldmanrev?logo=twitter&style=for-the-badge" alt="oldmanrev" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com)<img src="Photos\Part time Dev's Logo.png" height="50">
+- I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com) (Group Project among Peers within Lambda)
+<br>
+- Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="Photos\Part time Dev's Logo.png" height="40">
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Web Hosting**
 
-- 📫 How to reach me **Brandon@worobi.com**
+- 📫 How to reach me **Brandon@worobi.com** Or **Brandon@Parttimedevs.org**
 
 
 

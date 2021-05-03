@@ -1,5 +1,6 @@
-<h1 align="center">Salutations, I'm Brandon Worobi</h1>
-<h3 align="center">A Passionate full-stack Developer & Student</h3>
+<h1 align="center">Govt Name: Brandon Worobi</h1>
+<h2 align="center"><em>Nickname: Oldman Reverend</em></h1>
+<h3 align="center"><em>"Jack of all Trades, Master of None."</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/oldmanrev" target="blank"><img src="https://img.shields.io/twitter/follow/oldmanrev?logo=twitter&style=for-the-badge" alt="oldmanrev" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com)
+- 👯 I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com)<img src="Photos\Part time Dev's Logo.png" height="50">
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Web Hosting**
 

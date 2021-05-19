@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi" alt="brandonworobi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/oldmanrev" target="blank"><img src="https://img.shields.io/twitter/follow/oldmanrev?logo=twitter&style=for-the-badge" alt="oldmanrev" /></a> </p>
-
 - I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com) (Group Project among Peers within Lambda)
 <br>
 <text align=left>Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="Photos\Part time Dev's Logo.png" height="40"></text>

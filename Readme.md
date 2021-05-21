@@ -1,5 +1,5 @@
 <h1 align="center">Govt Name: Brandon Worobi</h1>
-<h2 align="center"><em>Nickname: Oldman Reverend</em></h1>
+<h2 align="center"><em>Nickname: Rev. Nibbles</em></h1>
 <h3 align="center"><em>"Jack of all Trades, Master of None."</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>

@@ -6,7 +6,7 @@
 
 
 <br>
- <a herf="Discord.gg/parttimedevs"></a><img align="center" src="https://i.postimg.cc/tT968Bw0/Part-Time-Devs-Logo-Final-Files.png" height="200">
+ <a herf="Discord.gg/parttimedevs"><img align="center" src="https://i.postimg.cc/tT968Bw0/Part-Time-Devs-Logo-Final-Files.png" height="200"></a>
 
 
 <h3 align="center">Languages and Tools:</h3>

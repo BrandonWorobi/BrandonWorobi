@@ -1,5 +1,4 @@
 [![Portfolio-Banner.png](https://i.postimg.cc/KjgHwcCs/Portfolio-Banner.png)](https://postimg.cc/YLMRm7r1)
-<h3 align="center"><em>"Jack of all Trades, Master of None."</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 

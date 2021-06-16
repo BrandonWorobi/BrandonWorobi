@@ -1,11 +1,10 @@
-<h1 align="center">Govt Name: Brandon Worobi</h1>
-<h2 align="center"><em>Nickname: Rev. Nibbles</em></h1>
+[![Portfolio-Banner.png](https://i.postimg.cc/KjgHwcCs/Portfolio-Banner.png)](https://postimg.cc/YLMRm7r1)
 <h3 align="center"><em>"Jack of all Trades, Master of None."</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi" alt="brandonworobi" /></a> </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/22df1f96-a4b4-4c8c-9a08-25268e4ad64b/deploy-status)](https://app.netlify.com/sites/agitated-almeida-7e9d36/deploys)
+
 - I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com) (Group Project among Peers within Lambda)
 <br>
 <text align=left>Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="Photos\Part time Dev's Logo.png" height="40"></text>

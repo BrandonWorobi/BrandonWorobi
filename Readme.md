@@ -1,4 +1,4 @@
-<h1 align="center">[![Portfolio-Banner.png](https://i.postimg.cc/KjgHwcCs/Portfolio-Banner.png)](https://postimg.cc/YLMRm7r1)</h1>
+[![Portfolio-Banner.png](https://i.postimg.cc/KjgHwcCs/Portfolio-Banner.png)](https://postimg.cc/YLMRm7r1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 

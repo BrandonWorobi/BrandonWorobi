@@ -1,12 +1,12 @@
 [![Portfolio-Banner.png](https://i.postimg.cc/KjgHwcCs/Portfolio-Banner.png)](https://postimg.cc/YLMRm7r1)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi" alt="brandonworobi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi" alt="brandonworobi" /></a> </p>
 
-- I’m looking to collaborate on [Part Time Dev's](Parttimedevs.com) (Group Project among Peers within Lambda)
+
 <br>
-<text align=left>Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="https://i.postimg.cc/tT968Bw0/Part-Time-Devs-Logo-Final-Files.png" height="40"></text>
+<text align=center>Join us on Discord <a herf="Discord.gg/parttimedevs"></a><img align="center" src="https://i.postimg.cc/tT968Bw0/Part-Time-Devs-Logo-Final-Files.png" height="40"></text>
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Web Hosting**
 

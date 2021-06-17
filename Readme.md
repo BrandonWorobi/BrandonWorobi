@@ -9,7 +9,7 @@
 </a><br> Part Time Devs Server
 <br>
 <br>
-<a href="https://twitter.com/bworobi">
+<a href="https://twitter.com/RevNibbles">
   <img alt="Brandon Worobi | Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a> <br> Personal Account
 <br>
 <br>

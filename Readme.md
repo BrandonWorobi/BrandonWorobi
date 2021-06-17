@@ -27,7 +27,7 @@ My Musical Tastes
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi&theme=discord&no-bg=true&no-frame=true" alt="brandonworobi" /></a></p><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="brandonworobi" width="500px">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="brandonworobi" width="495px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=brandonworobi&show_icons=true&theme=midnight-purple&border=DD11DDlocale=en" alt="brandonworobi" />
 <br>

@@ -1,6 +1,4 @@
 <h1 align="center"> <img src="Photos\Portfolio Banner.png"/></h1>
-<h2 align="center"><em>Nickname: Reverend Nibbles</em></h2>
-<h3 align="center"><em>"Jack of all Trades, Master of None."</em></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 
 

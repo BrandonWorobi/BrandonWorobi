@@ -1,12 +1,6 @@
 <h1 align="center"> <img src="Photos\Portfolio Banner.png"/></h1>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
-
-<br>
-
-<p align="center"><a href="https://discord.gg/Parttimedevs">
-  <img alt="Part Time Devs" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/> 
-</a><br> Part Time Devs Server
 <br>
 <br>
 <a href="https://twitter.com/RevNibbles">
@@ -16,14 +10,6 @@
 <a href="https://www.linkedin.com/in/worobi/">
   <img  alt="Brandon's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  <br>Lets Connect
-<br>
-<br>
-<a href="https://open.spotify.com/user/sgtnibbles?si=2ae84da8f12b485e">
-  <img  alt="Brandon's Spotify" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a><br>
-My Musical Tastes
-<br></p>
-
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi&theme=discord&no-bg=true&no-frame=true" alt="brandonworobi" /></a></p><br>
 

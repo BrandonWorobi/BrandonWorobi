@@ -3,6 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brandonworobi&label=Code%20Stalkers&color=7a0eb4&style=plastic" alt="brandonworobi" /> </p>
 <br>
 <br>
+<center>
 <a href="https://twitter.com/RevNibbles">
   <img alt="Brandon Worobi | Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a> <br> Personal Account
 <br>
@@ -11,6 +12,7 @@
   <img  alt="Brandon's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  <br>Lets Connect
 <br>
+</center>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonworobi&theme=discord&no-bg=true&no-frame=true" alt="brandonworobi" /></a></p><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonworobi&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="brandonworobi" width="495px">

@@ -25,8 +25,8 @@ Experienced Operations & Logistics Professional | IT & Web Developer | Army Comb
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/worobi/)
-- Portfolio: [Your Portfolio Website](https://www.worobi.com)
+- LinkedIn: [Brandon Worobi](https://www.linkedin.com/in/worobi/)
+- Portfolio: [Worobi](https://www.worobi.com)
 
 ## 🚀 Goals for the Future
 
